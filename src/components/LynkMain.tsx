@@ -158,7 +158,9 @@ const LynkMain = () => {
               Não perca mais oportunidades por não ter presença digital profissional.
             </p>
             <a
-              href="#contato"
+              href="https://wa.me/5519936197548?text=Ol%C3%A1!%20Quero%20minha%20landing%20page%20profissional."
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-3 px-8 py-5 rounded-xl text-lg font-bold bg-gradient-hero text-primary-foreground hover:opacity-90 transition-all duration-300 glow-purple hover:scale-[1.03]"
             >
               Quero minha landing page agora
