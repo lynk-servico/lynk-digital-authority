@@ -2,7 +2,7 @@ import { Instagram, Phone, MessageCircle } from "lucide-react";
 import logo from "@/assets/logo.png";
 
 const LynkFooter = () => {
-  const waLink = "https://wa.me/5519989508263?text=Ol%C3%A1!%20Quero%20saber%20mais%20sobre%20as%20solu%C3%A7%C3%B5es%20da%20Lynk.";
+  const waLink = "https://wa.me/5519936197548?text=Ol%C3%A1!%20Quero%20saber%20mais%20sobre%20as%20solu%C3%A7%C3%B5es%20da%20Lynk.";
 
   return (
     <>
@@ -58,24 +58,13 @@ const LynkFooter = () => {
                 </li>
                 <li>
                   <a
-                    href="https://wa.me/5519989508263"
+                    href="https://wa.me/5519936197548"
                     className="flex items-center gap-3 text-sm text-muted-foreground hover:text-primary transition-colors group"
                   >
                     <span className="w-9 h-9 rounded-lg bg-primary/15 flex items-center justify-center group-hover:bg-primary/25 transition-colors">
                       <Phone size={16} className="text-primary" />
                     </span>
-                    +55 (19) 98950-8263
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://wa.me/5519996917729"
-                    className="flex items-center gap-3 text-sm text-muted-foreground hover:text-primary transition-colors group"
-                  >
-                    <span className="w-9 h-9 rounded-lg bg-primary/15 flex items-center justify-center group-hover:bg-primary/25 transition-colors">
-                      <Phone size={16} className="text-primary" />
-                    </span>
-                    +55 (19) 99691-7729
+                    +55 19 93619-7548
                   </a>
                 </li>
               </ul>
