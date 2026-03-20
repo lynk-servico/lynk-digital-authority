@@ -65,11 +65,11 @@ const LynkMain = () => {
               <span className="gradient-text">o seu negócio</span>
             </h2>
           </div>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-5 gap-6">
             {services.map((s, i) => (
               <div
                 key={i}
-                className="group relative p-6 rounded-2xl border border-border bg-background hover:border-primary/50 transition-all duration-300 hover:card-glow"
+                className="group relative p-6 rounded-2xl border border-border bg-background transition-all duration-300 hover:border-primary/70 hover:[box-shadow:0_0_18px_4px_hsl(var(--primary)/0.45),0_0_40px_8px_hsl(var(--primary)/0.2)]"
               >
                 <div className="w-12 h-12 rounded-xl bg-primary/15 flex items-center justify-center mb-4 group-hover:bg-primary/25 transition-colors duration-300">
                   <s.icon className="text-primary" size={22} />
